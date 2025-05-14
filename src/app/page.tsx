@@ -9,7 +9,6 @@ import {
     Headphones,
     BarChart3,
     UserPlus,
-    ClipboardList,
     BookOpenCheck,
     DownloadCloud,
 } from 'lucide-react'
