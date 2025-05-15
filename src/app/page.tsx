@@ -85,6 +85,14 @@ export default function Home() {
                                 >
                                     Comienza gratis
                                 </Link>
+                                <Link
+                                    href="https://drive.google.com/drive/folders/1vUSJ4Dll4jtx3n63g_9phpPqZuUv62L4?usp=sharing"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-block bg-green-600 hover:bg-green-700 text-white text-lg font-medium px-8 py-4 rounded-lg transition"
+                                >
+                                    Instala en Android
+                                </Link>
                             </div>
 
                             {/* Carrusel sin scroll + hover-zoom */}
