@@ -88,15 +88,13 @@ export default function Home() {
                                     >
                                         Solicita Probar
                                     </Link>
-                                    <Link
-                                        href="https://drive.google.com/drive/folders/1vUSJ4Dll4jtx3n63g_9phpPqZuUv62L4?usp=sharing"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
+                                    <a
+                                        href="/application-b78038e4-9c19-40aa-9796-50c1b99ecff4.apk"
+                                        download
                                         className="inline-block bg-green-600 hover:bg-green-700 text-white text-lg font-medium px-8 py-4 rounded-lg transition"
                                     >
                                         Instala en Android
-                                    </Link>
-
+                                    </a>
                                 </div>
                             </div>
 
